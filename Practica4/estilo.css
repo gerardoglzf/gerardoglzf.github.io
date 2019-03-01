@@ -1,0 +1,254 @@
+body{
+    background-color: #fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding: 0;
+
+}
+
+.foto{
+    border: 0.6px solid gray;  
+    border-radius: 999px;  
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+header{
+    padding-bottom: 2%;
+    background-color: #fff;
+}
+
+h1{
+    margin: 0;
+    font-size: 1.5em;
+    padding-top: 1.5em;
+    padding-left: 7em;
+  
+}
+
+h2{
+    font-size: 1em;
+    font-style: italic;
+    color: #1A1DF8;
+    padding-left: 10.5em;
+}
+
+.izquierda{
+    float: left;
+    width: 60%;
+}
+
+.Derecha{
+    float: rigth;
+    background-color: #fff;
+    padding-bottom: 2em;
+    padding-top: 2em;
+}
+
+#alinear{
+    text-align: right;
+}
+
+table{
+    font-size: 80%;
+}
+
+
+img{
+    float: left;
+}
+
+
+
+article h2{
+    color: #e64a19;
+    font-size: 1x;
+    margin-left: 0%;
+}
+
+article{
+    float: left;
+    width: 70%;
+    border: 1px solid #ddd; 
+    margin-bottom: 20px;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+
+.conocimiento{
+    float: right;
+    border: 1px solid #ddd;
+    padding-top: 10px;
+    padding: 10px 15px;
+    border-radius: 20px;
+    width: 20%;
+    font-size: 16px;
+}
+
+.lenguajes{
+    float: right;
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    border-radius: 20px;
+    width: 20%;
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+.contacto{
+    float: right;
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    border-radius: 20px;
+    width: 20%;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+
+font{
+    font-size: 15px;
+}
+
+.blue {
+    background: blue;
+    border-radius: 0.8em;
+    -moz-border-radius: 0.8em;
+    -webkit-border-radius: 0.8em;
+    color: #e0e0e0;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 1.6em;
+    margin-right: 15px;
+    text-align: center;
+    width: 1.6em; 
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+  }
+
+  #bolitas{
+    padding-left: 20px;
+    justify-content: flex-end;
+    padding-left: 0%;
+  }
+
+  span {
+    background: #5EA226;
+    border-radius: 0.8em;
+    -moz-border-radius: 0.8em;
+    -webkit-border-radius: 0.8em;
+    color: #ffffff;
+    display: inline-table;
+    font-weight: bold;
+    line-height: 1.6em;
+    margin-right: 15px;
+    text-align: center;
+    width: 1.6em; 
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+  }
+
+  #blue1{
+    background: rgb(231, 215, 215);
+    border-radius: 0.8em;
+    -moz-border-radius: 0.8em;
+    -webkit-border-radius: 0.8em;
+    color: #000;
+    display: inline-table;
+    font-weight: bold;
+    line-height: 1.6em;
+    margin-right: 15px;
+    text-align: center;
+    width: 1.6em; 
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+  }
+
+  #idiomas{
+    padding:0;
+    text-align: center;
+    padding-left: 0;
+  }
+
+
+  progress{
+    width: 200px;
+    height: 18px;
+    border: none;
+    background: crimson; 
+    color: lightblue; 
+    
+}
+
+hr{
+    float: left;
+  
+}
+
+.iconoCuadrado{
+    padding-top: 5px;
+    padding-right: 10px;
+    height: 25px;
+    width: 25px;
+    padding-left: 0; 
+    float: left;
+    
+}
+
+.cinta{
+    padding-top: 8px;
+    width: 70%;
+    height: 15px;
+    padding: 5px;
+    margin: 5px;
+    background-color: #000;
+    padding-left: 14px;
+    color: white;
+}
+
+.iconoRedondo{
+    width: 20px;
+    height: 20px;
+    padding-left: 5px;
+    padding-top: 0; 
+    padding-right: 5px;
+    padding-right: 5px; 
+}
+
+.fechas{
+    float: right;
+}
+
+
+.fb{
+    padding-top: 7px;
+    width: 60px;
+    height: 60px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.insta{
+    padding-top: 7px;
+    width: 60px;
+    height: 60px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.gmail{
+    width: 60px;
+    height: 76px;
+    padding-left: 3px;
+    padding-right: 3px;
+}   
+
+
+
+
