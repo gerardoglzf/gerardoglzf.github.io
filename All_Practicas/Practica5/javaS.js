@@ -104,7 +104,7 @@ function entrada(){
     multiplos_7.onclick = function() {
         for (let a = 1; a <= option; a++){
             if(a % 7 ==0 && memory.includes(a)==false){
-                document.getElementById("boton"+a).style.background= "#65e9fd";
+                document.getElementById("boton"+a).style.background= "#FFEA00";
                 memory.push(a);
             }
         }
