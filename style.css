@@ -1,0 +1,131 @@
+body{
+   background-image: url(fondo/work-731198_1920.jpg);
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   background-color: #fff;
+   margin: 0;
+   padding: 0;
+}
+
+h1{
+    margin: 0;
+    color: #fff;
+}
+
+h2{
+    color: #fff;
+    padding-bottom: 10px;
+}
+
+header{
+    background-color: #102582;
+    margin: 0;
+    padding-top: 0;
+}
+
+p{
+    font-size: 11px;
+    font-style: normal;
+    color: #fff;
+}
+
+.CFather{
+    display: inline-table;
+    padding: 10px;
+    border: 4px solid #000;
+    background-color: #0016b0;
+    border-radius: 10px;
+    padding-top: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+h3{
+    padding-top: 0;
+    text-align: center;
+    color: #fff;
+}
+
+.btn{
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;  /*Distancia entre letra y boton*/
+    font-weight: 600;   /*Grosor de letra*/
+    font-size: 16px;    
+    color: #fff;        
+    background-color: #1883ba; 
+    border-radius: 6px;
+    border: 2px solid #9eff02;
+}
+
+.btn:hover{
+    color: #1883ba;
+    background-color: #fff;
+}
+
+.Unidad{
+    padding-bottom: 10px;
+    margin-bottom: 8px;
+}
+
+aside{
+    
+    display: inline-table;
+}
+
+.l1{
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+}
+
+.logo_php{
+    width: 86px;
+    margin-right: 10px;
+}
+
+
+#herramientas{
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    margin-top: 10px; 
+    margin-bottom: 10px;   
+}
+
+
+font{
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+}
+
+
+
+.cinta{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    width: 70%;
+    height: 25px;
+    padding: 5px;
+    background-color: #1883ba; 
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.DerechoAutor{
+    font-size: 15px;
+    color: #ddd;
+    margin-top: 30px;
+    margin-bottom: 1px; 
+    padding: 1px;
+    background-color: #e64a19;
+    text-align: center;
+}

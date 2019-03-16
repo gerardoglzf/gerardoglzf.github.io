@@ -1,0 +1,70 @@
+.izquierda{
+    display: inline-block;
+    border: 1px solid #000; 
+    margin-bottom: 20px;
+    padding: 10px 15px;
+    width: 600px;
+    margin-top: 20px;
+    border-radius: 7px;
+    margin-right: 10px;
+    background: -webkit-linear-gradient(#cddc39,#B0BEC5);
+}
+header{
+    background-color: #ff5722
+}
+
+.derecha{
+    display: inline-block;
+    border: 1px solid #000; 
+    margin-bottom: 20px;
+    padding: 10px 15px;
+    width: 190px;
+    height: 415px;
+    margin-left: 30px;
+    vertical-align: top;
+    margin-top: 20px; 
+    border-radius: 10px; 
+    color: #fff;   
+    background: -webkit-linear-gradient(blue,red);
+}
+
+button{
+    margin-bottom: 12px;
+    height: 1.9em;
+    width: 12em;
+    text-align: center;
+    border-radius: 20px;    
+}
+
+button:hover{
+    height: 2em;
+    width: 12em;
+    background-color: rgb(0, 247, 12);
+}
+
+h1{
+   padding-top: 8px;
+   padding-left: 7px;
+   padding-bottom: 25px;
+   margin: 0;
+   text-align: center;
+   color: azure;
+}
+h3{
+    margin-top: 1px;
+    margin-bottom: 8px;
+}
+body{
+    background-image: url(Fondo/sunset-4042056_1920.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+ }
+
+ .principal{
+     margin-left: 200px; 
+ }
